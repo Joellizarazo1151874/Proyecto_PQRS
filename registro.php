@@ -98,7 +98,7 @@
 
       <a href="login.php" class="text-center">Ya tengo una cuenta</a>
     </div>
-    <!-- /.form-box -->
+    <!-- /.form-box a-->
   </div><!-- /.card -->
 </div>
 <!-- /.register-box -->
